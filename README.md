@@ -1,1 +1,1 @@
-# polyglotit
+# polyglot
